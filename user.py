@@ -1,0 +1,6 @@
+nameuser = input("What is your name?")
+ageuser = input("How old are you?")
+countryuser = input("Where are you live?")
+print("This is '{0}'".format(nameuser))
+print("It is '{0}'".format(ageuser))
+print("(S)he live in '{0}'".format(countryuser))
